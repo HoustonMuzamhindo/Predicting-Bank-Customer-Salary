@@ -1,0 +1,3 @@
+The dataset contains 12043 transactions for 100 customers who hold one bank account.
+
+The transactional period is from 01/08/2018 – 31/10/2018 (92 days duration). The data entries are unique and have consistent formats for analysis. For each record/row, information is complete for the majority of columns. Some columns contain missing data (blank or NA cells), which is likely due to the nature of the transaction. (i.e. merchants are not involved for Inter Bank transfers or Salary payments) It is also noticed that there are only 91 unique dates in the dataset, suggesting the transaction records for one day are missing (turned out to be 2018-08-16).
